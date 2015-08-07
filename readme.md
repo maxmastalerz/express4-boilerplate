@@ -38,7 +38,7 @@ development: {
 ### Run server
 
 ```
-node servers.js
+node app.js
 ```
 
 Open `http://localhost:3000` for sample page.
@@ -51,6 +51,7 @@ Open `http://localhost:3000` for sample page.
 /public/javascripts/app.js  Sample javascript file (just a wrapper)
 /public/stylesheets         Public stylesheet files
 /public/stylesheets/app.js  Sample stylesheet file (minimalistic)
+/uploads                    Destination for file uploads
 /routes                     Routing modules ("controllers")
 /routes/index.js            Example routing module
 /routes/hello.js            Example routing module
