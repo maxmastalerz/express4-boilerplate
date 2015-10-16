@@ -18,8 +18,8 @@ Some changes to yanexbo and extra inclusions:
 via git and npm:
 
 ```
-$ git clone git@github.com:meaniostack/express4-boilerplate.git [my-app-name]
-$ cd [my-app-name]
+$ git clone https://github.com/maxmastalerz/express4-boilerplate.git
+$ cd express4-boilerplate.git
 $ npm install
 ```
 
