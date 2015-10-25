@@ -1,3 +1,7 @@
+/*
+Write your own routes here.
+*/
+
 var indexRoutes = require('./routes/index.js'),
 	helloRoutes = require('./routes/hello.js');
 
